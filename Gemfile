@@ -8,7 +8,7 @@ gem "middleman", "~>3.4.0"
 gem "middleman-livereload", "~> 3.1.0"
 
 # Portfolio
-gem "middleman-portfolio"
+# gem "middleman-portfolio"
 
 # Bootstrap Helpers
 gem "bh", "~> 1.3"

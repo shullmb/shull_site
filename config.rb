@@ -72,4 +72,4 @@ configure :build do
 end
 
 activate :bh
-activate :portfolio
+# activate :portfolio
