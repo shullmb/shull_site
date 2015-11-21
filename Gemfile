@@ -10,6 +10,9 @@ gem "middleman-livereload", "~> 3.1.0"
 # Portfolio
 # gem "middleman-portfolio"
 
+# jQuery
+gem "middleman-jquery"
+
 # Bootstrap Helpers
 gem "bh", "~> 1.3"
 

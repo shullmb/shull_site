@@ -1,0 +1,33 @@
+/* CSS for Etch-A=Sketch */
+
+
+#header {
+	font-family: Helvetica, Arial, sans-serif;
+	display: inline;
+	height: 80px;
+	width:100%;
+	margin: auto;
+	text-align: center;
+
+}
+
+#container {
+	margin: auto;
+	width: 960px;
+	}
+
+#footer {
+	height:80px;
+	width: 100%
+}
+.sqr {
+	background: white;
+	display: block;
+	float: left;
+	overflow:hidden;
+	border-radius: 10%;
+}
+
+.sketched {
+	background: #0f0f0f;
+}
