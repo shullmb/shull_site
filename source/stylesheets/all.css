@@ -3,18 +3,24 @@
 body {
   background: #FFF;
   text-align: center;
-  font-family: sans-serif; }
+  font-family: sans-serif;
+  margin 0 0 50px; }
 
 h1 {
   color: white;
   font-weight: bold;
   font-size: 32px;
   letter-spacing: -1px;
-  /*text-transform: uppercase;*/
-  /*text-shadow: 0 1px 0 rgba(255, 255, 255, .5);*/
-  background: url("../images/m.png") no-repeat center 100px;
+  background: url("../images/m_new.png") no-repeat center 100px;
   padding: 350px 0 10px;
   margin: 0; }
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 50px;
+  width: 100%; }
 
 .doc {
   font-size: 14px;
@@ -53,4 +59,17 @@ h1 {
   to {
     -webkit-transform: scale(1);
   }
+}
+
+.copy {
+  color: gray;
+  font-size: 8px;
+}
+
+.billboard {
+	/*background: url('../images/wood_mac_camera.jpg') no-repeat center;*/
+  background: url('../images/wood_mac_camera.jpg') no-repeat center;
+  /*background: url('../images/wood.jpg') no-repeat center;*/
+  /*background: url('../images/fog_forest.jpg') no-repeat ;*/
+
 }
