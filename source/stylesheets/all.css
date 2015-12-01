@@ -13,7 +13,6 @@ h1 {
   font-size: 32px;
   letter-spacing: -1px;
   background: url("../images/m_new.png") no-repeat center 100px;
-  /*background: url("../images/glasses.png") no-repeat center 100px;*/
   padding: 350px 0 10px;
   margin: 0; }
 
@@ -70,11 +69,16 @@ footer {
 
 .billboard {
   height: 500px;
-	/*background: url('../images/wood_mac_camera.jpg') no-repeat center;*/
   background: url('../images/wmc.jpg') no-repeat center;
-  /*background: url('../images/wood.jpg') no-repeat center;*/
-  /*background: url('../images/fog_forest.jpg') no-repeat ;*/
-  /*background: url('../images/fog_forest.jpg') no-repeat ;*/
 
+}
 
+.bio h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+  letter-spacing: -1px;
+  background: url("../images/biopic.jpg") no-repeat center 100px;
+  padding: 350px 0 10px;
+  margin: 0;
 }
